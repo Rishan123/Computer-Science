@@ -1,0 +1,11 @@
+How was information stored on the first computer ever made? Punchcards.
+True or false? A light bulb is an input device. False
+What part of the computer performs calculations for the user? the CPU
+Which part of the computer handles monitors and displays? The Graphics card
+What part of the computer handles power? The PSU
+What parts make up RAM? Transistors and capacitors
+How many megabytes are in a gigabyte? 1000
+Which component can store electrical energy? A capacitor
+Is a printer an example of an output device? Yes
+Does RAM store short-term or long-term memory? Short-term
+How many bits in a nibble? Four
