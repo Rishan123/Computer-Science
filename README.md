@@ -1,1 +1,1 @@
-# Rishans-Geography-Competition-Entry
+# Rishans-Computer-Science Homework
