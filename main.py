@@ -94,7 +94,7 @@ while True:
             os.system('espeak "Which part of the computer handles monitors and displays? AE: The CPU, BE: The RAM, CE: The GPU, DEE: The PSU " --stdout |aplay')
             asked = False
         else:
-            check_answer(b,incorrect_buttons)
+            check_answer(c,incorrect_buttons)
     
     elif question == 5:
         GPIO.output(8,False)
